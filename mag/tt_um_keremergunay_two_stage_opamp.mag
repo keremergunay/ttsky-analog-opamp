@@ -1,7 +1,7 @@
 magic
 tech sky130B
 magscale 1 2
-timestamp 1768749653
+timestamp 1768751481
 << metal1 >>
 rect 12040 32374 12050 32375
 rect 12034 31981 12050 32374
@@ -239,10 +239,6 @@ rect 24866 8500 30342 8680
 rect 23558 7730 26478 7910
 rect 17244 2372 22614 2552
 rect 16386 488 18750 668
-rect 3114 0 3294 200
-rect 6978 0 7158 200
-rect 10842 0 11022 200
-rect 14706 0 14886 200
 rect 18570 0 18750 488
 rect 22434 0 22614 2372
 rect 26298 0 26478 7730
@@ -266,14 +262,6 @@ flabel metal4 s 22434 0 22614 200 0 FreeSans 960 0 0 0 ua[2]
 port 5 nsew signal bidirectional
 flabel metal4 s 18570 0 18750 200 0 FreeSans 960 0 0 0 ua[3]
 port 6 nsew signal bidirectional
-flabel metal4 s 14706 0 14886 200 0 FreeSans 960 0 0 0 ua[4]
-port 7 nsew signal bidirectional
-flabel metal4 s 10842 0 11022 200 0 FreeSans 960 0 0 0 ua[5]
-port 8 nsew signal bidirectional
-flabel metal4 s 6978 0 7158 200 0 FreeSans 960 0 0 0 ua[6]
-port 9 nsew signal bidirectional
-flabel metal4 s 3114 0 3294 200 0 FreeSans 960 0 0 0 ua[7]
-port 10 nsew signal bidirectional
 flabel metal4 s 27462 44952 27522 45152 0 FreeSans 480 90 0 0 ui_in[0]
 port 11 nsew signal input
 flabel metal4 s 26910 44952 26970 45152 0 FreeSans 480 90 0 0 ui_in[1]
