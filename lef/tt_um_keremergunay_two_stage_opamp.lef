@@ -619,7 +619,7 @@ MACRO tt_um_keremergunay_two_stage_opamp
   END uo_out[7]
   PIN VDPWR
     DIRECTION INOUT ;
-    USE POWER ;
+    ANTENNADIFFAREA 107.500595 ;
     PORT
       LAYER nwell ;
         RECT 47.900 70.480 54.860 132.320 ;
