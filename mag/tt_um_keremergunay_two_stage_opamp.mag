@@ -1,7 +1,7 @@
 magic
 tech sky130B
 magscale 1 2
-timestamp 1768747214
+timestamp 1768748373
 << metal1 >>
 rect 12040 32374 12050 32375
 rect 12034 31981 12050 32374
@@ -358,4 +358,6 @@ flabel metal4 0 1000 400 44152 1 FreeSans 2 0 0 0 VDPWR
 port 51 nsew power bidirectional
 flabel metal4 600 1000 1000 44152 1 FreeSans 2 0 0 0 VGND
 port 52 nsew ground bidirectional
+<< properties >>
+string FIXED_BBOX 0 0 66976 45152
 << end >>

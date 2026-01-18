@@ -6,7 +6,7 @@ MACRO tt_um_keremergunay_two_stage_opamp
   CLASS BLOCK ;
   FOREIGN tt_um_keremergunay_two_stage_opamp ;
   ORIGIN 0.000 0.000 ;
-  SIZE 219.610 BY 225.760 ;
+  SIZE 334.880 BY 225.760 ;
   PIN clk
     DIRECTION INPUT ;
     USE SIGNAL ;
