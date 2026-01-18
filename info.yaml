@@ -12,7 +12,7 @@ project:
   tiles: "2x2"          # Valid values for analog projects: 1x2, 2x2
 
   # DIKKAT: Opamp icin Vin+, Vin- ve Vout lazim. Yani 3 pin.
-  analog_pins: 5        # Valid values: 0 to 6
+  analog_pins: 6        # Valid values: 0 to 6
   uses_3v3: false       # Sadece 1.8V kullaniyorsan false kalsin
 
   # KRITIK: Burasi Magic'teki "Top Cell" adinla AYNI OLMALI.
@@ -62,7 +62,7 @@ pinout:
   ua[2]: "Vout (Output)"
   ua[3]: "Bias / Control"
   ua[4]: "Bug Fix"
-  ua[5]: ""
+  ua[5]: "Bug Fix"
 
 # Do not change!
 yaml_version: 6
