@@ -653,7 +653,7 @@ MACRO tt_um_keremergunay_two_stage_opamp
     DIRECTION INOUT ;
     USE POWER ;
     PORT
-      LAYER nwell ;
+      LAYER met4 ;
         RECT 47.900 70.480 54.860 132.320 ;
         RECT 69.480 70.450 76.440 132.290 ;
         RECT 89.970 111.350 92.430 118.190 ;

@@ -61,7 +61,7 @@ pinout:
   ua[1]: "Vin- (Inverting Input)"
   ua[2]: "Vout (Output)"
   ua[3]: "Bias / Control"
-  ua[4]: ""
+  ua[4]: "Bug Fix"
   ua[5]: ""
 
 # Do not change!
