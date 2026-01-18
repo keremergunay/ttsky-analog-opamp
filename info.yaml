@@ -9,7 +9,7 @@ project:
 
   # Analog projeler genelde ozel bir tile yapisi ister.
   # Eger tasarimin kucukse "1x1" de olabilir ama sablonda "1x2" oneriliyorsa oyle kalsin.
-  tiles: "1x2"          # Valid values for analog projects: 1x2, 2x2
+  tiles: "2x2"          # Valid values for analog projects: 1x2, 2x2
 
   # DIKKAT: Opamp icin Vin+, Vin- ve Vout lazim. Yani 3 pin.
   analog_pins: 4        # Valid values: 0 to 6
